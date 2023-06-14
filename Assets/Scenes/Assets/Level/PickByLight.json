@@ -1,0 +1,22 @@
+{
+	"PickingList": 	
+	[
+		{
+			"PickUnit": [
+							{ "position":"ZP.A.02.3.08", "articleNr":"10005331", "quantity":"1", "unit":"EA", "description":"RED BALL", "annotation":"0_10005643", "basket": [{"count":1},{"count":0},{"count":0},{"count":0},{"count":0},{"count":0}] },
+							{ "position":"ZP.B.03.3.08", "articleNr":"10005331", "quantity":"3", "unit":"EA", "description":"BLUE BALL", "annotation":"0_10003662", "basket": [{"count":0},{"count":0},{"count":2},{"count":0},{"count":1},{"count":0}] },
+							{ "position":"ZP.C.03.2.06", "articleNr":"10005331", "quantity":"2", "unit":"EA", "description":"YELLOW BALL", "annotation":"0_10005641", "basket": [{"count":0},{"count":1},{"count":0},{"count":1},{"count":0},{"count":0}] },
+							{ "position":"ZP.D.04.3.04", "articleNr":"10005331", "quantity":"6", "unit":"EA", "description":"GREEN BALL", "annotation":"0_10003447", "basket": [{"count":2},{"count":1},{"count":0},{"count":1},{"count":0},{"count":2}] }
+						],
+			"Score":    { "A":135, "B":160, "C":180}
+						
+		},
+		{
+			"PickUnit": [
+							{ "position":"ZP.A.02.3.07", "articleNr":"10005331", "quantity":"4", "unit":"EA", "description":"Object 1", "annotation":"0_10005643", "basket": [{"count":8},{"count":8},{"count":8},{"count":8},{"count":8},{"count":8}] },
+							{ "position":"ZP.A.02.3.07", "articleNr":"10005331", "quantity":"4", "unit":"EA", "description":"Object 1", "annotation":"0_10005643", "basket": [{"count":8},{"count":8},{"count":8},{"count":8},{"count":8},{"count":8}] }
+						],
+			"Score":    { "A":30, "B":40, "C":50}						
+		}
+	]
+}

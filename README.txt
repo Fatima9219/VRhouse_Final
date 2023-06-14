@@ -1,0 +1,1 @@
+Just copy this folder to "C:\Program Files\" and start the game over BDGL.exe
